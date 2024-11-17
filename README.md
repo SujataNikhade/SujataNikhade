@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Data Analytics**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SujataNikhade](https://github.com/SujataNikhade)
+- 👨‍💻 All of my projects are available at https://github.com/SujataNikhade?tab=repositories
 
 - 📫 How to reach me **Sujatanikhade63@gmail.com**
 
