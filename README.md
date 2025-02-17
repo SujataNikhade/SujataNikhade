@@ -2,7 +2,7 @@
 <h1 align="center"> I'm Sujata Nikhade</h1>
 <h3 align="center">A passionate Data Science from India</h3>
 
-- 🔭 I’m currently work on **loan approval prediction**
+- 🔭 I’m currently work on **Restaurant**
 
 - 🌱 I’m currently learning **Data Analytics**
 
