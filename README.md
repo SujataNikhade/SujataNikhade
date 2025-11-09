@@ -2,7 +2,7 @@
 <h1 align="center">I'm Sujata Nikhade</h1>
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Data Analytics and OOP (Object-Oriented Programming) in Python**
+- 🌱 I’m currently learning **Data Analytics and OOP in Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SujataNikhade?tab=repositories](https://github.com/SujataNikhade?tab=repositories)
 
@@ -36,18 +36,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=python&logoColor=white" alt="OOP" height="30"/>
+  </a>
 </p>
 
----
-
-<h3 align="left">💻 Object-Oriented Programming (OOP) Skills:</h3>
-
-- 🔹 Understanding of **classes**, **objects**, and **constructors**  
-- 🔹 Proficient in **inheritance**, **polymorphism**, **encapsulation**, and **abstraction**  
-- 🔹 Experienced in writing **clean, reusable, modular code** using Python OOP principles  
-- 🔹 Applied OOP in **data analysis**, **machine learning pipelines**, and **project structuring**
-
----
-
-⭐ **“Code with logic, learn with curiosity.”**  
 
