@@ -2,7 +2,7 @@
 <h1 align="center">I'm Sujata Nikhade</h1>
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Data Analytics and OOP (Object-Oriented Programming) in Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SujataNikhade?tab=repositories](https://github.com/SujataNikhade?tab=repositories)
 
@@ -30,10 +30,24 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
 </p>
+
+---
+
+<h3 align="left">💻 Object-Oriented Programming (OOP) Skills:</h3>
+
+- 🔹 Understanding of **classes**, **objects**, and **constructors**  
+- 🔹 Proficient in **inheritance**, **polymorphism**, **encapsulation**, and **abstraction**  
+- 🔹 Experienced in writing **clean, reusable, modular code** using Python OOP principles  
+- 🔹 Applied OOP in **data analysis**, **machine learning pipelines**, and **project structuring**
+
+---
+
+⭐ **“Code with logic, learn with curiosity.”**  
+
