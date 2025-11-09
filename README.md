@@ -19,6 +19,10 @@
   <a href="https://www.hackerrank.com/profile/sujatanikhade63" target="blank">
     <img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank" height="30" />
   </a>
+  <a href="(https://leetcode.com/u/Sujata_Nikhade25/)" target="blank">
+    <img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank" height="30" />
+  </a>
+  </a>
 </p>
 
 
