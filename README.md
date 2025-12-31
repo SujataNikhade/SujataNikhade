@@ -2,7 +2,7 @@
 <h1 align="center">I'm Sujata Nikhade</h1>
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
-- 🌱 I’m currently learning **Data Analytics and OOP in Python**
+- 🌱 I’m currently learning **Data Science with AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SujataNikhade?tab=repositories](https://github.com/SujataNikhade?tab=repositories)
 
